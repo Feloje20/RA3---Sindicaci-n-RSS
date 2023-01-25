@@ -9,8 +9,18 @@
     <author>a22feloje@iesgrancapitan.org</author>
     <webMaster>a22feloje@iesgrancapitan.org</webMaster>
     <lastBuildDate>25/01/2023</lastBuildDate>
-    <skipDays>Sabado, domingo</skipDays>
-    <skipHours>00:00-05:00</skipHours>
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+    <skipHours>
+      <hour>0</hour>
+      <hour>1</hour>
+      <hour>2</hour>
+      <hour>3</hour>
+      <hour>4</hour>
+      <hour>5</hour>
+    </skipHours>
     <image>
       <url>https://github.com/Feloje20/RA3---Sindicaci-n-RSS/blob/main/450_1000.png</url>
       <title>Mando de consola</title>
