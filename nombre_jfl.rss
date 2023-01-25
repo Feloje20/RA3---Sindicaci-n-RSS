@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>RA3 - Sindicación RSS Jesús Ferrer</title>
+    <link>https://www.w3schools.com</link>
+    <description>Práctica de RSS</description>
+    <category>Videojuegos</category>
+    <language>es</language>
+    <author>a22feloje@iesgrancapitan.org</author>
+    <webMaster>a22feloje@iesgrancapitan.org</webMaster>
+    <lastBuildDate>25/01/2023</lastBuildDate>
+    <skipDays>Sabado, domingo</skipDays>
+    <skipHours>00:00-05:00</skipHours>
+    <image>
+      <url>https://github.com/Feloje20/RA3---Sindicaci-n-RSS/blob/main/450_1000.png</url>
+      <title>Mando de consola</title>
+      <link>https://github.com/Feloje20/RA3---Sindicaci-n-RSS</link>
+    </image>
+
+    <item>
+      <title>Google stadia cierra</title>
+      <link>https://www.revistagq.com/noticias/articulo/por-que-google-stadia-cierra</link>
+      <description>Google stadia es inviable, nadie lo consume</description>
+      <enclosure url="https://github.com/Feloje20/RA3---Sindicaci-n-RSS/blob/main/prac.png" length="23859" type="image/png" />
+      <author>a22feloje@iesgrancapitan.org</author>
+      <pubDate>4 de octubre de 2022</pubDate>
+    </item>
+
+    <item>
+      <title>El creador de Tunic duda de gamepass</title>
+      <link>https://vandal.elespanol.com/noticia/1350759274/la-editora-de-tunic-explica-sus-dudas-sobre-los-servicios-de-suscripcion-y-los-juegos-indie/</link>
+      <description>El creador de tunic no le convencen las suscripciones</description>
+      <enclosure url="https://github.com/Feloje20/RA3---Sindicaci-n-RSS/blob/main/20231161164374_1.png" length="64722" type="image/png" />
+      <author>a22feloje@iesgrancapitan.org</author>
+      <pubDate>20 de enero de 2023</pubDate>
+    </item>
+
+    <item>
+      <title>¿Vampire survivors traerá más DLC's?</title>
+      <link>https://www.levelup.com/noticias/718672/Vampire-Survivor-recibira-mas-DLC-Su-creador-comparte-una-agridulce-noticia</link>
+      <description>El creador de vampire survivors habla sobre el nuevo contenido de su videojuego</description>
+      <enclosure url="https://github.com/Feloje20/RA3---Sindicaci-n-RSS/blob/main/1642660724_073800_1642662176_noticia_normal.png" length="108654" type="image/png" />
+      <author>a22feloje@iesgrancapitan.org</author>
+      <pubDate>12 de Diciembre de 2022</pubDate>
+    </item>
+
+    <item>
+      <title>Atomic heart a la vuelta de la esquina</title>
+      <link>https://www.3djuegos.com/juegos/atomic-heart/noticias/buenas-noticias-tienes-ganas-genial-bioshock-sovietico-autores-atomic-heart-confirman-que-juego-esta-terminado-no-esperan-retrasos</link>
+      <description>Hablamos sobre la salida del juego de atomic heart</description>
+      <enclosure url="https://github.com/Feloje20/RA3---Sindicaci-n-RSS/blob/main/atomic-heart.png" length="111969" type="image/png" />
+      <author>a22feloje@iesgrancapitan.org</author>
+      <pubDate>2 de Enero de 2023</pubDate>
+    </item>
+  </channel>
+</rss>
